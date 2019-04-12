@@ -3,8 +3,8 @@
  *	Generation date: 2018-11-21T20:53:21.059Z
  *	Client name: jsfiddlechartiqcom
  *	License type: annual
- *	Expiration date: "2019/03/31"
- *	Domain lock: ["127.0.0.1","localhost","chartiq.com","fiddle.jshell.net","jsfiddle.net","plnkr.co"]
+ *	Expiration date: "2019/10/31"
+ *	Domain lock: ["chartiq-react.herokuapp.com",127.0.0.1","localhost","chartiq.com","fiddle.jshell.net","jsfiddle.net","plnkr.co"]
  *	iFrame lock: true
  */
 
