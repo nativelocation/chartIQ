@@ -4,7 +4,7 @@
  *	Client name: jsfiddlechartiqcom
  *	License type: annual
  *	Expiration date: "2019/10/31"
- *	Domain lock: ["chartiq-react.herokuapp.com",127.0.0.1","localhost","chartiq.com","fiddle.jshell.net","jsfiddle.net","plnkr.co"]
+ *	Domain lock: ["chartiq-react.herokuapp.com","127.0.0.1","localhost","chartiq.com","fiddle.jshell.net","jsfiddle.net","plnkr.co"]
  *	iFrame lock: true
  */
 
@@ -22,7 +22,7 @@
 (function() {
 	var trialExpiration = undefined;
 	var licenseExpiration = "2019/03/31";
-	var domains = ["127.0.0.1","localhost","chartiq.com","fiddle.jshell.net","jsfiddle.net","plnkr.co"];
+	var domains = ["chartiq-react.herokuapp.com","127.0.0.1","localhost","chartiq.com","fiddle.jshell.net","jsfiddle.net","plnkr.co"];
 	var filesystem = false;
 	var expiration;
 
