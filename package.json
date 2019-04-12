@@ -23,6 +23,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+	"license": "ISC",
   "browserslist": [
     ">0.2%",
     "not dead",
